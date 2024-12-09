@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "878673350771",
+    "firebase_url": "https://air-quality-index-7396c-default-rtdb.firebaseio.com",
+    "project_id": "air-quality-index-7396c",
+    "storage_bucket": "air-quality-index-7396c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878673350771:android:31c36c57af60ada3cbda06",
+        "android_client_info": {
+          "package_name": "com.example.airquality"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9WmnJWHiPR46fri7jjHwe7Lso-lh6PMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
